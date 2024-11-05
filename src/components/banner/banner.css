@@ -1,0 +1,32 @@
+.bg{
+    background: url(../../assets/bg.png) no-repeat center / cover;
+    padding: 300px 0;
+    width: 100%;
+    margin: auto;
+}
+.down-img{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.bg-text{
+    margin-top: -150px;
+}
+.bg-text h3{
+    color: white;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 200px;
+    text-align: center;
+ }
+ .bg-text h2{
+     color: white;
+     font-size: 72px;
+     font-weight: 700;
+     line-height: 20px;
+     text-align: center;
+     margin-top: 60px;
+  }

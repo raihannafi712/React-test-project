@@ -1,0 +1,43 @@
+.join-text h6{
+    font-family: "Yellowtail", cursive;
+    color: #14B9F1;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: auto;
+}
+.join-text h5{
+    font-family: "IBM Plex Sans", sans-serif;
+    color: black;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: auto;
+}
+.join-text p{
+    font-family: "IBM Plex Sans", sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: auto;
+    padding-bottom: 30px;
+}
+.join-text a{
+    font-family: "IBM Plex Sans", sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: auto;
+    padding: 20px 30px;
+    background-color: #FF9600;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.join-text a:hover{
+    background-color: black;
+    color: white;
+}
+.join-main{
+    padding: 100px 0;
+}
+.r-2{
+    padding-left: 20px;
+}
